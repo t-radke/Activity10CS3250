@@ -53,4 +53,5 @@ class SquareTestCase(unittest.TestCase):
         self.assertEqual(s.perimeter(), 8)
 
 if __name__ == '__main__':
-    unittest.main(start_dir='src')
+    #unittest.main(start_dir='src')
+    unittest.main()
